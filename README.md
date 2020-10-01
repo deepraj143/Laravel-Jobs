@@ -3,7 +3,7 @@ Laravel-Jobs
 
 A Laravel 4 package for adding jobs listings to a website
 
-## Features
+## Amazing Features
 
 * Jobs index and detail page functionality with search
 * Ability to apply for a job and upload a CV
